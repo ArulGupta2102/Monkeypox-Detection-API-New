@@ -5,4 +5,4 @@ keras==3.6.0
 Keras-Preprocessing==1.1.2
 numpy==1.26.4
 gunicorn
-Werkzeug==2.2.2
+Werkzeug==3.0.3
